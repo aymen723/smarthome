@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace securiteinterface
 {
-    internal class user
+    public class user
     {
 
         public string username;
@@ -14,6 +14,7 @@ namespace securiteinterface
         public string userpassword;
         public int iduser;
         public int userbirthday;
+        public string usertype;
 
 
     }

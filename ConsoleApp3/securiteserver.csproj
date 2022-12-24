@@ -29,6 +29,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\securiteinterface\securiteinterface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="System.Runtime.Remoting" />
   </ItemGroup>
 

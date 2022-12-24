@@ -1,12 +1,42 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.5.1": {},
-    ".NETFramework,Version=v4.5.1/win7-x86": {}
+    ".NETFramework,Version=v4.5.1": {
+      "securiteinterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "compile": {
+          "bin/placeholder/securiteinterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/securiteinterface.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win7-x86": {
+      "securiteinterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.1",
+        "compile": {
+          "bin/placeholder/securiteinterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/securiteinterface.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "securiteinterface/1.0.0": {
+      "type": "project",
+      "path": "../securiteinterface/securiteinterface.csproj",
+      "msbuildProject": "../securiteinterface/securiteinterface.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.5.1": []
+    ".NETFramework,Version=v4.5.1": [
+      "securiteinterface >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\acer\\.nuget\\packages\\": {},
@@ -40,7 +70,11 @@
       "frameworks": {
         "net451": {
           "targetAlias": "net4.5.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\vsprojects\\smarthome\\securiteinterface\\securiteinterface.csproj": {
+              "projectPath": "C:\\vsprojects\\smarthome\\securiteinterface\\securiteinterface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
