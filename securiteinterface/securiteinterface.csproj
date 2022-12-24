@@ -2,8 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net4.5.1</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>

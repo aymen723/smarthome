@@ -3,6 +3,8 @@
 
 using securiteinterface;
 using System;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace securiteserver
 {
@@ -13,12 +15,15 @@ namespace securiteserver
 
         public override object InitializeLifetimeService()
         {
+
+           
             return null;
         }
 
         public double Consommationenergy()
         {
             throw new NotImplementedException();
+
         }       
 
         public void Createuser(user uuser)
@@ -41,6 +46,14 @@ namespace securiteserver
         public void Stateofhouse()
         {
             throw new NotImplementedException();
+        }
+
+        public int Testremote(int a , int b)
+        {
+            //throw new NotImplementedException();
+            int c;
+            c = a + b;
+            return c;
         }
     }
 }

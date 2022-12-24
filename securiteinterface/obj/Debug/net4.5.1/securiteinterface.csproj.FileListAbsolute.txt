@@ -1,0 +1,9 @@
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.csproj.AssemblyReference.cache
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.AssemblyInfoInputs.cache
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.AssemblyInfo.cs
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.csproj.CoreCompileInputs.cache
+C:\vsprojects\smarthome\securiteinterface\bin\Debug\net4.5.1\securiteinterface.dll
+C:\vsprojects\smarthome\securiteinterface\bin\Debug\net4.5.1\securiteinterface.pdb
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.dll
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.pdb

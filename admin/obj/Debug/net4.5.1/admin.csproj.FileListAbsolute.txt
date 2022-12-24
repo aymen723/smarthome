@@ -1,0 +1,14 @@
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.csproj.AssemblyReference.cache
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.csproj.SuggestedBindingRedirects.cache
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.AssemblyInfoInputs.cache
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.AssemblyInfo.cs
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.csproj.CoreCompileInputs.cache
+C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\admin.exe.config
+C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\admin.exe
+C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\admin.pdb
+C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\securiteinterface.dll
+C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\securiteinterface.pdb
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.csproj.CopyComplete
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.exe
+C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.pdb

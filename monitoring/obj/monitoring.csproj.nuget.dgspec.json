@@ -1,0 +1,105 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\vsprojects\\smarthome\\monitoring\\monitoring.csproj": {}
+  },
+  "projects": {
+    "C:\\vsprojects\\smarthome\\monitoringinterface\\monitoringinterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\vsprojects\\smarthome\\monitoringinterface\\monitoringinterface.csproj",
+        "projectName": "monitoringinterface",
+        "projectPath": "C:\\vsprojects\\smarthome\\monitoringinterface\\monitoringinterface.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "C:\\vsprojects\\smarthome\\monitoringinterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.5.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net451": {
+            "targetAlias": "net4.5.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net451": {
+          "targetAlias": "net4.5.1",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\vsprojects\\smarthome\\monitoring\\monitoring.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\vsprojects\\smarthome\\monitoring\\monitoring.csproj",
+        "projectName": "monitoring",
+        "projectPath": "C:\\vsprojects\\smarthome\\monitoring\\monitoring.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "C:\\vsprojects\\smarthome\\monitoring\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.5.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net451": {
+            "targetAlias": "net4.5.1",
+            "projectReferences": {
+              "C:\\vsprojects\\smarthome\\monitoringinterface\\monitoringinterface.csproj": {
+                "projectPath": "C:\\vsprojects\\smarthome\\monitoringinterface\\monitoringinterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net451": {
+          "targetAlias": "net4.5.1",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

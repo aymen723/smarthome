@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Runtime.Remoting;  
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
+using securiteinterface;
 
 namespace securiteserver
 {
@@ -15,9 +16,27 @@ namespace securiteserver
             
 
         static void Main(string[] args)
-        {   
+        {
 
-            ChannelServices.RegisterChannel(new TcpClientChannel(), false);
+
+            try
+            {
+                TcpChannel channel = new TcpChannel (5050);
+                ChannelServices.RegisterChannel(channel);
+                RemotingConfiguration.RegisterWellKnownServiceType(typeof(securiteserver.Program), "remop", WellKnownObjectMode.Singleton);
+
+                Console.WriteLine("Le serveur a démarré avec succès");
+                Console.ReadLine();
+
+
+
+
+            }
+            catch (Exception ex)
+            {
+
+
+            }
 
 
 

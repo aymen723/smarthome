@@ -1,0 +1,17 @@
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.csproj.AssemblyReference.cache
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.csproj.SuggestedBindingRedirects.cache
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\Interop.REMOTEPROXY6432Lib.dll
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\Interop.RDS.dll
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.csproj.ResolveComReference.cache
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.AssemblyInfoInputs.cache
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.AssemblyInfo.cs
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.csproj.CoreCompileInputs.cache
+C:\vsprojects\smarthome\ConsoleApp3\bin\Debug\net4.5.1\securiteserver.exe.config
+C:\vsprojects\smarthome\ConsoleApp3\bin\Debug\net4.5.1\securiteserver.exe
+C:\vsprojects\smarthome\ConsoleApp3\bin\Debug\net4.5.1\securiteserver.pdb
+C:\vsprojects\smarthome\ConsoleApp3\bin\Debug\net4.5.1\securiteinterface.dll
+C:\vsprojects\smarthome\ConsoleApp3\bin\Debug\net4.5.1\securiteinterface.pdb
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.csproj.CopyComplete
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.exe
+C:\vsprojects\smarthome\ConsoleApp3\obj\Debug\net4.5.1\securiteserver.pdb
