@@ -1,0 +1,13 @@
+C:\vsprojects\smarthome\test\bin\Debug\net451\test.exe.config
+C:\vsprojects\smarthome\test\bin\Debug\net451\test.exe
+C:\vsprojects\smarthome\test\bin\Debug\net451\test.pdb
+C:\vsprojects\smarthome\test\bin\Debug\net451\MySql.Data.dll
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.csproj.AssemblyReference.cache
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.csproj.SuggestedBindingRedirects.cache
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.AssemblyInfoInputs.cache
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.AssemblyInfo.cs
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.csproj.CoreCompileInputs.cache
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.csproj.CopyComplete
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.exe
+C:\vsprojects\smarthome\test\obj\Debug\net451\test.pdb

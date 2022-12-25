@@ -1,0 +1,14 @@
+C:\vsprojects\smarthome\monitoring\bin\Debug\net4.5.1\monitoring.exe.config
+C:\vsprojects\smarthome\monitoring\bin\Debug\net4.5.1\monitoring.exe
+C:\vsprojects\smarthome\monitoring\bin\Debug\net4.5.1\monitoring.pdb
+C:\vsprojects\smarthome\monitoring\bin\Debug\net4.5.1\monitoringinterface.dll
+C:\vsprojects\smarthome\monitoring\bin\Debug\net4.5.1\monitoringinterface.pdb
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.csproj.AssemblyReference.cache
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.csproj.SuggestedBindingRedirects.cache
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.AssemblyInfoInputs.cache
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.AssemblyInfo.cs
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.csproj.CoreCompileInputs.cache
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.csproj.CopyComplete
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.exe
+C:\vsprojects\smarthome\monitoring\obj\Debug\net4.5.1\monitoring.pdb

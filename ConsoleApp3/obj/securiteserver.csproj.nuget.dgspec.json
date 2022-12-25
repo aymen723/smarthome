@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net4.5.1"
+          "net451"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,7 +31,7 @@
         },
         "frameworks": {
           "net451": {
-            "targetAlias": "net4.5.1",
+            "targetAlias": "net451",
             "projectReferences": {
               "C:\\vsprojects\\smarthome\\securiteinterface\\securiteinterface.csproj": {
                 "projectPath": "C:\\vsprojects\\smarthome\\securiteinterface\\securiteinterface.csproj"
@@ -47,7 +47,13 @@
       },
       "frameworks": {
         "net451": {
-          "targetAlias": "net4.5.1",
+          "targetAlias": "net451",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[6.7.9, )"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       },
@@ -97,6 +103,12 @@
       "frameworks": {
         "net451": {
           "targetAlias": "net4.5.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[6.7.9, )"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }

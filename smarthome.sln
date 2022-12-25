@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "securiteinterface", "securi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "admin", "admin\admin.csproj", "{6510CACC-19EA-422A-860A-9F6079A0DE83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monitoring", "monitoring\monitoring.csproj", "{13C6D863-2660-4B6D-B88D-9F2796D2A030}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "monitoring", "monitoring\monitoring.csproj", "{13C6D863-2660-4B6D-B88D-9F2796D2A030}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monitoringinterface", "monitoringinterface\monitoringinterface.csproj", "{01DBF1C1-D995-4845-8BB7-58209E861477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "monitoringinterface", "monitoringinterface\monitoringinterface.csproj", "{01DBF1C1-D995-4845-8BB7-58209E861477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{7367DECF-E0E8-47D7-8635-3AB4D665D2BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{01DBF1C1-D995-4845-8BB7-58209E861477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01DBF1C1-D995-4845-8BB7-58209E861477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01DBF1C1-D995-4845-8BB7-58209E861477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7367DECF-E0E8-47D7-8635-3AB4D665D2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7367DECF-E0E8-47D7-8635-3AB4D665D2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7367DECF-E0E8-47D7-8635-3AB4D665D2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7367DECF-E0E8-47D7-8635-3AB4D665D2BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

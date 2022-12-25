@@ -22,6 +22,8 @@ namespace monitoring
 
 
 
+            Console.WriteLine("Le serveur a démarré avec succès");
+            Console.ReadLine();
         }
 
 

@@ -5,6 +5,8 @@ using securiteinterface;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using MySql.Data.MySqlClient;
+
 
 namespace securiteserver
 {
@@ -54,6 +56,36 @@ namespace securiteserver
             int c;
             c = a + b;
             return c;
+        }
+
+        public void Showall()
+        {
+            //throw new NotImplementedException();
+            try
+            {
+
+
+                string MyConnection2 = "datasource=localhost;port=3306;username=aymen;password=4033";
+                string query = "SELECT * FROM smarthome.user";
+                MySqlConnection con = new MySqlConnection(MyConnection2);
+                MySqlCommand command = new MySqlCommand(query, con);
+
+
+
+
+            }
+            catch(Exception e)
+            {
+
+                Console.WriteLine(e.Message);
+
+
+            }
+
+
+
+          
+
         }
     }
 }

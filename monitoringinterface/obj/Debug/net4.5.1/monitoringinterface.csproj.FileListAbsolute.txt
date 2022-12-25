@@ -1,0 +1,9 @@
+C:\vsprojects\smarthome\monitoringinterface\bin\Debug\net4.5.1\monitoringinterface.dll
+C:\vsprojects\smarthome\monitoringinterface\bin\Debug\net4.5.1\monitoringinterface.pdb
+C:\vsprojects\smarthome\monitoringinterface\obj\Debug\net4.5.1\monitoringinterface.csproj.AssemblyReference.cache
+C:\vsprojects\smarthome\monitoringinterface\obj\Debug\net4.5.1\monitoringinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprojects\smarthome\monitoringinterface\obj\Debug\net4.5.1\monitoringinterface.AssemblyInfoInputs.cache
+C:\vsprojects\smarthome\monitoringinterface\obj\Debug\net4.5.1\monitoringinterface.AssemblyInfo.cs
+C:\vsprojects\smarthome\monitoringinterface\obj\Debug\net4.5.1\monitoringinterface.csproj.CoreCompileInputs.cache
+C:\vsprojects\smarthome\monitoringinterface\obj\Debug\net4.5.1\monitoringinterface.dll
+C:\vsprojects\smarthome\monitoringinterface\obj\Debug\net4.5.1\monitoringinterface.pdb

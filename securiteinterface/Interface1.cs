@@ -18,6 +18,8 @@ namespace securiteinterface
         double Consommationenergy();
         void Createuser(user uuser);
 
+        void Showall();
+
         int Testremote(int a ,int b);
 
 

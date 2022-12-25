@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "shpODtiafJFeMifdOvh919LWpVnNdgVj2sOlR3tGAueWhOWAcpaD55xASX3ncMkdz6Z2HwvZuRD5zuSNY2G9WQ==",
+  "dgSpecHash": "aBhSBznF5VxqdOL+YrXbzXq6pOf0AZsCIkCr3WCHjlA7nxOwLuumS6eidKVbsCffWMCgwGgIWnkE5KbNOWw4tQ==",
   "success": true,
   "projectFilePath": "C:\\vsprojects\\smarthome\\ConsoleApp3\\securiteserver.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\mysql.data\\6.7.9\\mysql.data.6.7.9.nupkg.sha512"
+  ],
   "logs": []
 }

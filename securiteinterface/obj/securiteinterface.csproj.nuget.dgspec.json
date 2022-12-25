@@ -44,6 +44,12 @@
       "frameworks": {
         "net451": {
           "targetAlias": "net4.5.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[6.7.9, )"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }

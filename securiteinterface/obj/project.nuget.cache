@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WeMJKAEGPz9f1HWZ/XW04eDkJDxcwrvVp3TgOaMUhTpm44oOQ+n6MXCpny7h9weVI31LFp8rg86x1Rkn2IiK6Q==",
+  "dgSpecHash": "AzgbN12D/YXi28NwMiLegYcZ1imm6XsKTrN8LkRmv6zQQwp2N8JlCbn/33X3ecTuIVKf0ly0r8VuKt3WHikDjg==",
   "success": true,
   "projectFilePath": "C:\\vsprojects\\smarthome\\securiteinterface\\securiteinterface.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\mysql.data\\6.7.9\\mysql.data.6.7.9.nupkg.sha512"
+  ],
   "logs": []
 }
