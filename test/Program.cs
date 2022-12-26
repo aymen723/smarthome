@@ -19,19 +19,28 @@ namespace test
 
 
                 //MySqlSslMode mode = MySqlSslMode.None;
-                string MyConnection2 = "datasource=localhost;port=3306;database=smarthome;username=root;password=4033;SslMode=None";
+                string MyConnection2 = "datasource=localhost;port=3306;database=smarthome;username=root;password=4033;sslMode=None";
                 string query = "SELECT * FROM smarthome.user";
 
                 MySqlConnection con = new MySqlConnection(MyConnection2);
-                con.Open();
                 MySqlCommand command = new MySqlCommand(query, con);
-                Console.WriteLine(command.ExecuteNonQuery());
+                con.Open();
+                MySqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+
+                    Console.WriteLine(reader.GetString("username"));
+
+                }
+
 
             }
             catch (Exception ex)
             {
 
                 Console.WriteLine(ex.Message);
+
             }
 
 

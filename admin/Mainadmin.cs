@@ -4,7 +4,7 @@ using System.Runtime.Remoting;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
 using System;
-
+using System.Collections.Generic;
 
 namespace admin
 {
@@ -20,10 +20,10 @@ namespace admin
             {
 
 
-                Testmoniter();
+                //Testmoniter();
 
 
-                //Testseruriteserverside();
+                Testseruriteserverside();
 
 
             }
@@ -54,9 +54,19 @@ namespace admin
                 Console.WriteLine((remop.Testremote(a, b)).ToString());
                 //System.Console.ReadLine();
 
+                for(int i = 0; i<remop.Showall().Count; i++)
+                {
+                    Console.WriteLine(remop.Showall()[i].username);
+
+
+                }
+
+
+
+
 
             }
-            catch (Exception e) { Console.WriteLine(e); }
+            catch (Exception e) { Console.WriteLine(e.Message); }
 
         }
 

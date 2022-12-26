@@ -7,3 +7,5 @@ C:\vsprojects\smarthome\securiteinterface\bin\Debug\net4.5.1\securiteinterface.d
 C:\vsprojects\smarthome\securiteinterface\bin\Debug\net4.5.1\securiteinterface.pdb
 C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.dll
 C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.pdb
+C:\vsprojects\smarthome\securiteinterface\bin\Debug\net4.5.1\MySql.Data.dll
+C:\vsprojects\smarthome\securiteinterface\obj\Debug\net4.5.1\securiteinterface.csproj.CopyComplete

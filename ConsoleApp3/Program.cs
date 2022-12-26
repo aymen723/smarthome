@@ -28,12 +28,12 @@ namespace securiteserver
 
         }       
 
-        public void Createuser(user uuser)
+        public void Createuser(securiteinterface.user uuser)
         {
             throw new NotImplementedException();
         }
 
-        public List<user> History()
+        public List<securiteinterface.user> History()
         {
             throw new NotImplementedException();
         }
@@ -58,23 +58,39 @@ namespace securiteserver
             return c;
         }
 
-        public void Showall()
+        public List<user> Showall()
         {
             //throw new NotImplementedException();
+            List<user> list = new List<user>();
+
             try
             {
 
 
-                string MyConnection2 = "datasource=localhost;port=3306;username=aymen;password=4033";
+                string MyConnection2 = "datasource=localhost;port=3306;database=smarthome;username=root;password=4033;sslMode=None";
                 string query = "SELECT * FROM smarthome.user";
+
                 MySqlConnection con = new MySqlConnection(MyConnection2);
                 MySqlCommand command = new MySqlCommand(query, con);
+                con.Open();
+                MySqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+
+                    user uuser = new user(Int32.Parse(reader.GetString("iduser")), reader.GetString("username"), reader.GetString("userprenom"), reader.GetString("userpassword"), reader.GetString("usertype"), reader.GetString("userbirthday"));
+                    list.Add(uuser);
+                    Console.WriteLine(uuser.username);
+                    //Console.WriteLine(reader.GetString("username"));
+
+                }
+
 
 
 
 
             }
-            catch(Exception e)
+            catch (Exception e)
             {
 
                 Console.WriteLine(e.Message);
@@ -83,8 +99,9 @@ namespace securiteserver
             }
 
 
+            return list;
 
-          
+
 
         }
     }

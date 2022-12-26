@@ -51,7 +51,7 @@
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
-              "version": "[6.7.9, )"
+              "version": "[6.9.12, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"

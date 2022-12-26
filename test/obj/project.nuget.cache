@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AAxHqRVj5Bd9Xzr7gAyRexjTSvA7g+VN1CP4WJyHZgOlDiPtcC2uZCgn2PIQoo4aEOgactBUdTRa96R961v8rQ==",
+  "dgSpecHash": "16KEYIntQILtDBDL5pakjMvHOdNGKngNd8qeyhYwVb/gcWQ+LN53DelSrhOJc04sCdo5qqBsWCRdveIwkMlKow==",
   "success": true,
   "projectFilePath": "C:\\vsprojects\\smarthome\\test\\test.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\acer\\.nuget\\packages\\mysql.data\\6.7.9\\mysql.data.6.7.9.nupkg.sha512"
+    "C:\\Users\\acer\\.nuget\\packages\\mysql.data\\6.9.12\\mysql.data.6.9.12.nupkg.sha512"
   ],
   "logs": []
 }

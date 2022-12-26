@@ -14,3 +14,4 @@ C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.exe
 C:\vsprojects\smarthome\admin\obj\Debug\net4.5.1\admin.pdb
 C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\monitoringinterface.dll
 C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\monitoringinterface.pdb
+C:\vsprojects\smarthome\admin\bin\Debug\net4.5.1\MySql.Data.dll
